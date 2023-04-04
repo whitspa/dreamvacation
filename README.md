@@ -53,24 +53,24 @@ Stay at our resort and select your activities to make this the vactation of your
   ---
   
  ## Credits:
-Development Team: Anu Khadka, Gwen Paradis, Tyler Powers, Whit Spaulding. Thank you to our Instructors and class mates for their assistance throughout this process.
+Development Team: Whit Spaulding, Anu Khadka, Gwen Paradis, Tyler Powers. Thank you to our Instructors and class mates for their assistance throughout this process.
 
   ---
 
   ## Questions
   
-  * GitHub Username: gwenparadis
-  * Link to Github user profile: github.com/gwenparadis
+  * GitHub Username: WSCoding
+  * Link to Github user profile: https://github.com/whitspa
   * Development Team Email Addresses: 
- anuragi.khadka@gmail.com, gwendelynparadis2@gmail.com, tylerpowerst@aol.com,whitspa64@duck.com
+ whitspa64@duck.com,anuragi.khadka@gmail.com, gwendelynparadis2@gmail.com, tylerpowerst@aol.com
 
 
 
 ## Link to github repository
-https://github.com/gwenparadis/vacation-planner
+https://github.com/whitspa/dreamvacation
 
 ## Link to the deployed application
-https://
+https://safe-inlet-96324.herokuapp.com/
   
  
   A screen shot of the application is below:
